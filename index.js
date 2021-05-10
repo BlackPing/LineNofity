@@ -1,1 +1,3 @@
-console.log('test')
+const Notify = require('./Nofity');
+
+Notify('test2');
